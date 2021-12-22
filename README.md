@@ -4,7 +4,7 @@
 -The user can input their name upon device initialization for identification 
 -The program also features an EEPROM wipe routine that effectively clears all task data 
 
-##Future development  
+# Future development  
 -Add charging capabilities for the rechargeable 9V battery  
 -Add more EEPROM storage capabilities  
 -Add multiple user infrastructure  
